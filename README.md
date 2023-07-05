@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Languages Known
+## Languages Known
 <p>
 <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" height="24"></a>
     <a href="https://github.com/search?q=user%3APrince-Mendiratta+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" height="24"></a>
